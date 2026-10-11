@@ -10,9 +10,8 @@ from __future__ import annotations
 
 import streamlit as st
 
-from core.auth import can, current_user, login_gate, logout_button
+from core.auth import can, login_gate, logout_button
 from core.db import bootstrap, health_check
-from core.enums import Role
 from ui import (
     account_ui,
     config_ui,
@@ -73,7 +72,6 @@ def main() -> None:
 
 def _ecrans_autorises() -> dict:
     """Écrans accessibles au rôle courant, dans l'ordre d'usage."""
-    utilisateur = current_user()
     ecrans: dict = {"Dashboard": dashboard_ui.afficher}
     if can("saisie_entries"):
         ecrans["Timesheet"] = timesheet_ui.afficher

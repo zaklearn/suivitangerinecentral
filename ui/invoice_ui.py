@@ -14,7 +14,6 @@ from core.invoice_export import generer_facture
 from core.invoice_service import (
     ajouter_odc,
     annuler_brouillon,
-    attacher_entrees,
     creer_brouillon,
     definir_avance,
     detacher_entrees,
@@ -27,7 +26,7 @@ from core.invoice_service import (
     supprimer_odc,
 )
 from core.models import Invoice
-from ui.common import afficher_erreurs, nombre, tableau, telechargements, usd
+from ui.common import afficher_erreurs, tableau, telechargements, usd
 from ui.timesheet_ui import expert_cible
 
 

@@ -8,7 +8,7 @@ import streamlit as st
 from sqlalchemy import select
 
 from core.alerts_service import depassement_a_signaler
-from core.auth import UtilisateurConnecte, current_user, require_action
+from core.auth import UtilisateurConnecte, require_action
 from core.config_service import livrables_projet, projets_alloues
 from core.db import get_session
 from core.entries_service import (

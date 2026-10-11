@@ -8,7 +8,6 @@ import pytest
 
 from core.config_service import (
     avertissement_cloture,
-    creer_livrable,
     definir_allocation,
     maj_parametres,
     modifier_projet,
@@ -29,7 +28,7 @@ from core.entries_service import (
     supprimer_entree,
 )
 from core.enums import StatutProjet, TypeActivite, Unite
-from core.models import Entry, User
+from core.models import Entry
 
 
 # --------------------------------------------------------------------------- #

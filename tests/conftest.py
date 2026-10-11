@@ -6,7 +6,6 @@ spécifique à SQLite : seule l'URL change.
 """
 from __future__ import annotations
 
-import os
 from datetime import date
 from decimal import Decimal
 

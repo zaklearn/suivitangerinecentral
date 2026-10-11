@@ -7,7 +7,7 @@ from decimal import Decimal
 from core.entries_service import creer_entree
 from core.enums import TypeActivite, Unite
 from core.integrity import arrondi_money, calculer_consommation, verifier_integrite
-from core.models import Config, Entry, Invoice, InvoiceLabor, User
+from core.models import Config, Entry, Invoice
 
 
 def test_bootstrap_idempotent(db):

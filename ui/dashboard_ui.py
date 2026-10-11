@@ -305,9 +305,6 @@ def _graphe_experts(lignes: list[dict], seuil_alerte: int, seuil_critique: int) 
         barmode="stack", template=GABARIT, height=max(280, 44 * len(donnees)),
         xaxis_title="Jours", margin={"t": 30}, **TRANSITION,
     )
-    figure.add_vline(
-        x=0, line_width=0,
-    )
     st.plotly_chart(figure, use_container_width=True)
     tableau(
         [

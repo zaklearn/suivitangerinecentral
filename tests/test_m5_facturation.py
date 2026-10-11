@@ -31,7 +31,7 @@ from core.invoice_service import (
     prochain_numero,
     supprimer_odc,
 )
-from core.models import Entry, Invoice, InvoiceLabor, InvoiceOdc
+from core.models import Entry, Invoice
 from core.xlsx_utils import TEMPLATES_DIR, charger_modele
 
 

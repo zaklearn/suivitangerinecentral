@@ -10,7 +10,7 @@ from ui.common import nombre, tableau
 
 
 def afficher() -> None:
-    utilisateur = require_action("administration")
+    require_action("administration")
     st.header("Intégrité des données")
     st.caption(
         "Les cinq règles du cahier des charges. Les lignes d'une facture déjà "

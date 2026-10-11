@@ -1,7 +1,6 @@
 """M2 — Écrans de configuration, réservés à l'administrateur."""
 from __future__ import annotations
 
-from datetime import date
 from decimal import Decimal
 
 import streamlit as st
