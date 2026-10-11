@@ -34,6 +34,7 @@ from sqlalchemy import (
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column, relationship
 
 from core.enums import (
+    ModeNumerotation,
     NiveauAlerte,
     Role,
     StatutAlerte,
@@ -86,6 +87,11 @@ class Config(Base):
         String(255), nullable=False, default="carmen@tangerinecentral.org"
     )
     prefixe_facture: Mapped[str] = mapped_column(String(16), nullable=False, default="TC")
+    mode_numerotation: Mapped[ModeNumerotation] = mapped_column(
+        _enum(ModeNumerotation, "mode_numerotation_enum"),
+        nullable=False,
+        default=ModeNumerotation.PAR_EXPERT,
+    )
 
 
 class User(Base):
@@ -104,6 +110,8 @@ class User(Base):
     societe_ville_zip: Mapped[str | None] = mapped_column(String(255), nullable=True)
     societe_phone: Mapped[str | None] = mapped_column(String(64), nullable=True)
     societe_email: Mapped[str | None] = mapped_column(String(255), nullable=True)
+    # Discriminant de la séquence de factures propre à l'expert (ex. « JD »).
+    code_facture: Mapped[str | None] = mapped_column(String(8), nullable=True, unique=True)
     actif: Mapped[bool] = mapped_column(Boolean, nullable=False, default=True)
     must_change_pwd: Mapped[bool] = mapped_column(Boolean, nullable=False, default=False)
     created_at: Mapped[datetime] = mapped_column(

@@ -56,3 +56,17 @@ class NiveauAlerte(StrEnum):
 class StatutAlerte(StrEnum):
     OUVERTE = "ouverte"
     TRAITEE = "traitee"
+
+
+class ModeNumerotation(StrEnum):
+    """Forme du numéro de facture (M2 §2.4 / M5 §5.4).
+
+    PAR_EXPERT  -> {prefixe}-{code_expert}-{AAAA}-{seq:03d}, une séquence par
+                   expert et par année. Le code expert est indispensable :
+                   sans lui, deux experts obtiennent le même numéro la même
+                   année et la contrainte d'unicité de `invoices.numero` saute.
+    GLOBALE     -> {prefixe}-{AAAA}-{seq:03d}, une seule séquence pour tous.
+    """
+
+    PAR_EXPERT = "par_expert"
+    GLOBALE = "globale"
