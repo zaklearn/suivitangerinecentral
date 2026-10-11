@@ -6,3 +6,8 @@ bcrypt>=4.0,<5
 openpyxl>=3.1
 pandas>=2.0
 plotly>=5.20
+libreoffice-writer
+libreoffice-calc
+fonts-dejavu
+reportlab
+fpdf2
