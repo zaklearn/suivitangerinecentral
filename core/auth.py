@@ -347,7 +347,7 @@ def logout_button() -> None:
     """Bouton de déconnexion dans la barre latérale."""
     import streamlit as st
 
-    if st.sidebar.button("Se déconnecter", width="stretch"):
+    if st.sidebar.button("Se déconnecter", use_container_width=True):
         for cle in list(st.session_state.keys()):
             del st.session_state[cle]
         st.rerun()

@@ -303,7 +303,10 @@ def supprimer_odc(session: Session, auteur_id: int | None, odc_id: int) -> list[
         return ["Facture déjà émise : les ODC ne sont plus modifiables."]
     invoice_id = ligne.invoice_id
     journaliser(session, auteur_id, "invoice_odc_delete", "invoice_odc", odc_id)
-    session.delete(ligne)
+    # remove() sur la relation (cascade delete-orphan) supprime la ligne tout en
+    # retirant l'élément de la collection chargée : session.delete() la laisserait
+    # dans la collection et la renumérotation ci-dessous porterait à faux.
+    facture.odc_lines.remove(ligne)
     session.flush()
     # Renumérotation des items pour rester 1..n sans trou.
     for position, restante in enumerate(
