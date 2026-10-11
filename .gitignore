@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Secrets : jamais versionnés (seul l'exemple l'est)
+.streamlit/secrets.toml
+*.pem
+
+# Sorties locales
+*.db
+exports/
