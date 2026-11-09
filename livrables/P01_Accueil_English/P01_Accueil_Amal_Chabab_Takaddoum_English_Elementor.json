@@ -1,0 +1,3002 @@
+{
+  "version": "0.4",
+  "title": "P-01 Accueil (EN) — Association Amal Chabab Takaddoum",
+  "type": "page",
+  "content": [
+    {
+      "id": "2a1000a",
+      "elType": "container",
+      "settings": {
+        "content_width": "boxed",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "size": 0,
+          "column": "0",
+          "row": "0",
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "96",
+          "right": "24",
+          "bottom": "96",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "72",
+          "right": "24",
+          "bottom": "72",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "56",
+          "right": "20",
+          "bottom": "56",
+          "left": "20",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#F4F6F6",
+        "_title": "S1 — Bannière principale"
+      },
+      "elements": [
+        {
+          "id": "2a10009",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_gap": {
+              "unit": "px",
+              "size": 48,
+              "column": "48",
+              "row": "48",
+              "isLinked": true
+            },
+            "flex_gap_tablet": {
+              "unit": "px",
+              "size": 32,
+              "column": "32",
+              "row": "32",
+              "isLinked": true
+            },
+            "flex_gap_mobile": {
+              "unit": "px",
+              "size": 32,
+              "column": "32",
+              "row": "32",
+              "isLinked": true
+            },
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "flex_align_items": "center",
+            "flex_wrap": "nowrap",
+            "flex_wrap_tablet": "wrap",
+            "flex_direction_mobile": "column",
+            "_title": "S1 · Ligne 2 colonnes"
+          },
+          "elements": [
+            {
+              "id": "2a10006",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 24,
+                  "column": "24",
+                  "row": "24",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 58,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "_title": "S1 · Colonne texte"
+              },
+              "elements": [
+                {
+                  "id": "2a10001",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "Association Amal Chabab Takaddoum: Together for a More Inclusive and Supportive Community",
+                    "header_size": "h1",
+                    "title_color": "#152A33",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 44,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 38,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 30,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.18,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S1 · H1"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "2a10002",
+                  "elType": "widget",
+                  "settings": {
+                    "editor": "<p>Working for young people, solidarity, and social development in Rabat.</p>\n<p>Based in Rabat, Association Amal Chabab Takaddoum develops community-based initiatives in education, training, culture, and social participation.</p>\n<p>Through its areas of work, the association seeks to encourage initiatives, strengthen solidarity, and contribute to community development.</p>",
+                    "text_color": "#45555C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.75,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S1 · Texte d’introduction"
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "2a10005",
+                  "elType": "container",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "row",
+                    "flex_gap": {
+                      "unit": "px",
+                      "size": 16,
+                      "column": "16",
+                      "row": "16",
+                      "isLinked": true
+                    },
+                    "width": {
+                      "unit": "%",
+                      "size": 100,
+                      "sizes": []
+                    },
+                    "flex_align_items": "center",
+                    "flex_wrap": "wrap",
+                    "_title": "S1 · Boutons"
+                  },
+                  "elements": [
+                    {
+                      "id": "2a10003",
+                      "elType": "widget",
+                      "settings": {
+                        "text": "Discover the Association",
+                        "link": {
+                          "url": "/l-association/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "size": "md",
+                        "border_radius": {
+                          "unit": "px",
+                          "top": "4",
+                          "right": "4",
+                          "bottom": "4",
+                          "left": "4",
+                          "isLinked": true
+                        },
+                        "text_padding": {
+                          "unit": "px",
+                          "top": "16",
+                          "right": "32",
+                          "bottom": "16",
+                          "left": "32",
+                          "isLinked": false
+                        },
+                        "text_padding_mobile": {
+                          "unit": "px",
+                          "top": "14",
+                          "right": "24",
+                          "bottom": "14",
+                          "left": "24",
+                          "isLinked": false
+                        },
+                        "typography_typography": "custom",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "600",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.2,
+                          "sizes": []
+                        },
+                        "background_color": "#1F4E5F",
+                        "button_text_color": "#FFFFFF",
+                        "button_background_hover_color": "#152A33",
+                        "button_hover_border_color": "#152A33",
+                        "hover_color": "#FFFFFF",
+                        "_title": "S1 · Bouton 1 → L’association"
+                      },
+                      "elements": [],
+                      "widgetType": "button"
+                    },
+                    {
+                      "id": "2a10004",
+                      "elType": "widget",
+                      "settings": {
+                        "text": "Explore Our Initiatives",
+                        "link": {
+                          "url": "/projets-et-programmes/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "size": "md",
+                        "border_radius": {
+                          "unit": "px",
+                          "top": "4",
+                          "right": "4",
+                          "bottom": "4",
+                          "left": "4",
+                          "isLinked": true
+                        },
+                        "text_padding": {
+                          "unit": "px",
+                          "top": "16",
+                          "right": "32",
+                          "bottom": "16",
+                          "left": "32",
+                          "isLinked": false
+                        },
+                        "text_padding_mobile": {
+                          "unit": "px",
+                          "top": "14",
+                          "right": "24",
+                          "bottom": "14",
+                          "left": "24",
+                          "isLinked": false
+                        },
+                        "typography_typography": "custom",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "600",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.2,
+                          "sizes": []
+                        },
+                        "background_color": "#00000000",
+                        "button_text_color": "#1F4E5F",
+                        "border_border": "solid",
+                        "border_width": {
+                          "unit": "px",
+                          "top": "1",
+                          "right": "1",
+                          "bottom": "1",
+                          "left": "1",
+                          "isLinked": true
+                        },
+                        "border_color": "#1F4E5F",
+                        "button_background_hover_color": "#1F4E5F",
+                        "hover_color": "#FFFFFF",
+                        "button_hover_border_color": "#1F4E5F",
+                        "_title": "S1 · Bouton 2 → Projets & Programmes"
+                      },
+                      "elements": [],
+                      "widgetType": "button"
+                    }
+                  ],
+                  "isInner": true
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "2a10008",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 0,
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 38,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "_title": "S1 · Colonne visuel (image à remplacer)"
+              },
+              "elements": [
+                {
+                  "id": "2a10007",
+                  "elType": "widget",
+                  "settings": {
+                    "image": {
+                      "url": "https://amalchababtakadoum.org/wp-content/plugins/elementor/assets/images/placeholder.png",
+                      "id": "",
+                      "size": "",
+                      "alt": "",
+                      "source": "library"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "image_border_radius": {
+                      "unit": "px",
+                      "top": "8",
+                      "right": "8",
+                      "bottom": "8",
+                      "left": "8",
+                      "isLinked": true
+                    },
+                    "_title": "S1 · IMAGE À REMPLACER — visuel institutionnel"
+                  },
+                  "elements": [],
+                  "widgetType": "image"
+                }
+              ],
+              "isInner": true
+            }
+          ],
+          "isInner": true
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "2a10013",
+      "elType": "container",
+      "settings": {
+        "content_width": "boxed",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "size": 0,
+          "column": "0",
+          "row": "0",
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "24",
+          "bottom": "100",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "72",
+          "right": "24",
+          "bottom": "72",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "56",
+          "right": "20",
+          "bottom": "56",
+          "left": "20",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "_title": "S2 — Présentation"
+      },
+      "elements": [
+        {
+          "id": "2a10012",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_gap": {
+              "unit": "px",
+              "size": 48,
+              "column": "48",
+              "row": "48",
+              "isLinked": true
+            },
+            "flex_gap_tablet": {
+              "unit": "px",
+              "size": 32,
+              "column": "32",
+              "row": "32",
+              "isLinked": true
+            },
+            "flex_gap_mobile": {
+              "unit": "px",
+              "size": 32,
+              "column": "32",
+              "row": "32",
+              "isLinked": true
+            },
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "flex_align_items": "center",
+            "flex_wrap": "nowrap",
+            "flex_wrap_tablet": "wrap",
+            "flex_direction_mobile": "column",
+            "_title": "S2 · Ligne 2 colonnes"
+          },
+          "elements": [
+            {
+              "id": "2a1000f",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 24,
+                  "column": "24",
+                  "row": "24",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 55,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "_title": "S2 · Colonne texte"
+              },
+              "elements": [
+                {
+                  "id": "2a1000b",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "A Dynamic Community Organization, Open to Collaboration",
+                    "header_size": "h2",
+                    "title_color": "#152A33",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 34,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 30,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 26,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.25,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S2 · H2"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "2a1000c",
+                  "elType": "widget",
+                  "settings": {
+                    "editor": "<p>Association Amal Chabab Takaddoum is a Moroccan nonprofit association based in Rabat. Its work is guided by an approach to educational, cultural, social, and sports development, with particular attention to issues affecting young people.</p>\n<p>Believing in the importance of collective action, the association develops its initiatives around solidarity, participation, and support. It also seeks to expand opportunities for learning, personal development, and active involvement in social life.</p>",
+                    "text_color": "#45555C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.75,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S2 · Texte"
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "2a1000e",
+                  "elType": "container",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "row",
+                    "flex_gap": {
+                      "unit": "px",
+                      "size": 16,
+                      "column": "16",
+                      "row": "16",
+                      "isLinked": true
+                    },
+                    "width": {
+                      "unit": "%",
+                      "size": 100,
+                      "sizes": []
+                    },
+                    "flex_wrap": "wrap",
+                    "_title": "S2 · Bouton"
+                  },
+                  "elements": [
+                    {
+                      "id": "2a1000d",
+                      "elType": "widget",
+                      "settings": {
+                        "text": "Learn More About the Association",
+                        "link": {
+                          "url": "/l-association/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "size": "md",
+                        "border_radius": {
+                          "unit": "px",
+                          "top": "4",
+                          "right": "4",
+                          "bottom": "4",
+                          "left": "4",
+                          "isLinked": true
+                        },
+                        "text_padding": {
+                          "unit": "px",
+                          "top": "16",
+                          "right": "32",
+                          "bottom": "16",
+                          "left": "32",
+                          "isLinked": false
+                        },
+                        "text_padding_mobile": {
+                          "unit": "px",
+                          "top": "14",
+                          "right": "24",
+                          "bottom": "14",
+                          "left": "24",
+                          "isLinked": false
+                        },
+                        "typography_typography": "custom",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "600",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.2,
+                          "sizes": []
+                        },
+                        "background_color": "#1F4E5F",
+                        "button_text_color": "#FFFFFF",
+                        "button_background_hover_color": "#152A33",
+                        "button_hover_border_color": "#152A33",
+                        "hover_color": "#FFFFFF",
+                        "_title": "S2 · Bouton → L’association"
+                      },
+                      "elements": [],
+                      "widgetType": "button"
+                    }
+                  ],
+                  "isInner": true
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "2a10011",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 0,
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 41,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "_title": "S2 · Colonne visuel (image à remplacer)"
+              },
+              "elements": [
+                {
+                  "id": "2a10010",
+                  "elType": "widget",
+                  "settings": {
+                    "image": {
+                      "url": "https://amalchababtakadoum.org/wp-content/plugins/elementor/assets/images/placeholder.png",
+                      "id": "",
+                      "size": "",
+                      "alt": "",
+                      "source": "library"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "image_border_radius": {
+                      "unit": "px",
+                      "top": "8",
+                      "right": "8",
+                      "bottom": "8",
+                      "left": "8",
+                      "isLinked": true
+                    },
+                    "_title": "S2 · IMAGE À REMPLACER — vie associative"
+                  },
+                  "elements": [],
+                  "widgetType": "image"
+                }
+              ],
+              "isInner": true
+            }
+          ],
+          "isInner": true
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "2a10027",
+      "elType": "container",
+      "settings": {
+        "content_width": "boxed",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "size": 40,
+          "column": "40",
+          "row": "40",
+          "isLinked": true
+        },
+        "flex_gap_mobile": {
+          "unit": "px",
+          "size": 32,
+          "column": "32",
+          "row": "32",
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "24",
+          "bottom": "100",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "72",
+          "right": "24",
+          "bottom": "72",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "56",
+          "right": "20",
+          "bottom": "56",
+          "left": "20",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#F4F6F6",
+        "flex_align_items": "center",
+        "_title": "S3 — Nos pôles"
+      },
+      "elements": [
+        {
+          "id": "2a10016",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "flex_gap": {
+              "unit": "px",
+              "size": 16,
+              "column": "16",
+              "row": "16",
+              "isLinked": true
+            },
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "flex_align_items": "center",
+            "_title": "S3 · En-tête"
+          },
+          "elements": [
+            {
+              "id": "2a10014",
+              "elType": "widget",
+              "settings": {
+                "title": "Three Complementary Areas of Work, One Shared Purpose",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#152A33",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 34,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 30,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 26,
+                  "sizes": []
+                },
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.25,
+                  "sizes": []
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "_title": "S3 · H2"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "2a10015",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>The association's work is organized around three complementary areas that provide a structured framework for its activities and contribute to achieving its objectives.</p>",
+                "align": "center",
+                "text_color": "#45555C",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75,
+                  "sizes": []
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "_element_width": "initial",
+                "_element_custom_width": {
+                  "unit": "px",
+                  "size": 720,
+                  "sizes": []
+                },
+                "_element_custom_width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "_title": "S3 · Texte d’introduction"
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            }
+          ],
+          "isInner": true
+        },
+        {
+          "id": "2a10026",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_gap": {
+              "unit": "px",
+              "size": 24,
+              "column": "24",
+              "row": "24",
+              "isLinked": true
+            },
+            "flex_gap_tablet": {
+              "unit": "px",
+              "size": 24,
+              "column": "24",
+              "row": "24",
+              "isLinked": true
+            },
+            "flex_gap_mobile": {
+              "unit": "px",
+              "size": 20,
+              "column": "20",
+              "row": "20",
+              "isLinked": true
+            },
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "flex_align_items": "stretch",
+            "flex_wrap": "nowrap",
+            "flex_wrap_tablet": "wrap",
+            "flex_direction_mobile": "column",
+            "_title": "S3 · Grille des 3 cartes"
+          },
+          "elements": [
+            {
+              "id": "2a1001b",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 16,
+                  "column": "16",
+                  "row": "16",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 33,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "32",
+                  "right": "28",
+                  "bottom": "32",
+                  "left": "28",
+                  "isLinked": false
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "24",
+                  "right": "22",
+                  "bottom": "24",
+                  "left": "22",
+                  "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "flex_justify_content": "flex-start",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#E1E7E8",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "8",
+                  "right": "8",
+                  "bottom": "8",
+                  "left": "8",
+                  "isLinked": true
+                },
+                "_title": "S3 · Carte 1 — Pôle Administration et Gestion"
+              },
+              "elements": [
+                {
+                  "id": "2a10017",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "Administration and Management",
+                    "header_size": "h3",
+                    "title_color": "#152A33",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 19,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.35,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S3 · H3 carte 1"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "2a10018",
+                  "elType": "widget",
+                  "settings": {
+                    "editor": "<p>This area focuses on organizing and coordinating the association's operations. It contributes to administrative follow-up and the management of the resources needed to support the association's work.</p>",
+                    "text_color": "#45555C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.7,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S3 · Texte carte 1"
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "2a1001a",
+                  "elType": "container",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "row",
+                    "flex_gap": {
+                      "unit": "px",
+                      "size": 0,
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true
+                    },
+                    "width": {
+                      "unit": "%",
+                      "size": 100,
+                      "sizes": []
+                    },
+                    "flex_wrap": "wrap",
+                    "_title": "S3 · Bouton carte 1"
+                  },
+                  "elements": [
+                    {
+                      "id": "2a10019",
+                      "elType": "widget",
+                      "settings": {
+                        "text": "Explore This Area",
+                        "link": {
+                          "url": "/nos-poles/administration-et-gestion/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "size": "md",
+                        "border_radius": {
+                          "unit": "px",
+                          "top": "4",
+                          "right": "4",
+                          "bottom": "4",
+                          "left": "4",
+                          "isLinked": true
+                        },
+                        "text_padding": {
+                          "unit": "px",
+                          "top": "12",
+                          "right": "22",
+                          "bottom": "12",
+                          "left": "22",
+                          "isLinked": false
+                        },
+                        "text_padding_mobile": {
+                          "unit": "px",
+                          "top": "14",
+                          "right": "24",
+                          "bottom": "14",
+                          "left": "24",
+                          "isLinked": false
+                        },
+                        "typography_typography": "custom",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "600",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.2,
+                          "sizes": []
+                        },
+                        "background_color": "#00000000",
+                        "button_text_color": "#1F4E5F",
+                        "border_border": "solid",
+                        "border_width": {
+                          "unit": "px",
+                          "top": "1",
+                          "right": "1",
+                          "bottom": "1",
+                          "left": "1",
+                          "isLinked": true
+                        },
+                        "border_color": "#E1E7E8",
+                        "button_background_hover_color": "#1F4E5F",
+                        "hover_color": "#FFFFFF",
+                        "button_hover_border_color": "#1F4E5F",
+                        "_title": "S3 · Bouton carte 1"
+                      },
+                      "elements": [],
+                      "widgetType": "button"
+                    }
+                  ],
+                  "isInner": true
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "2a10020",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 16,
+                  "column": "16",
+                  "row": "16",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 33,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "32",
+                  "right": "28",
+                  "bottom": "32",
+                  "left": "28",
+                  "isLinked": false
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "24",
+                  "right": "22",
+                  "bottom": "24",
+                  "left": "22",
+                  "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "flex_justify_content": "flex-start",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#E1E7E8",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "8",
+                  "right": "8",
+                  "bottom": "8",
+                  "left": "8",
+                  "isLinked": true
+                },
+                "_title": "S3 · Carte 2 — Pôle Formation et Intégration"
+              },
+              "elements": [
+                {
+                  "id": "2a1001c",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "Training and Integration",
+                    "header_size": "h3",
+                    "title_color": "#152A33",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 19,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.35,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S3 · H3 carte 2"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "2a1001d",
+                  "elType": "widget",
+                  "settings": {
+                    "editor": "<p>This area focuses on learning, skills development, and initiatives that support social and professional integration.</p>",
+                    "text_color": "#45555C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.7,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S3 · Texte carte 2"
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "2a1001f",
+                  "elType": "container",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "row",
+                    "flex_gap": {
+                      "unit": "px",
+                      "size": 0,
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true
+                    },
+                    "width": {
+                      "unit": "%",
+                      "size": 100,
+                      "sizes": []
+                    },
+                    "flex_wrap": "wrap",
+                    "_title": "S3 · Bouton carte 2"
+                  },
+                  "elements": [
+                    {
+                      "id": "2a1001e",
+                      "elType": "widget",
+                      "settings": {
+                        "text": "Explore This Area",
+                        "link": {
+                          "url": "/nos-poles/formation-et-integration/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "size": "md",
+                        "border_radius": {
+                          "unit": "px",
+                          "top": "4",
+                          "right": "4",
+                          "bottom": "4",
+                          "left": "4",
+                          "isLinked": true
+                        },
+                        "text_padding": {
+                          "unit": "px",
+                          "top": "12",
+                          "right": "22",
+                          "bottom": "12",
+                          "left": "22",
+                          "isLinked": false
+                        },
+                        "text_padding_mobile": {
+                          "unit": "px",
+                          "top": "14",
+                          "right": "24",
+                          "bottom": "14",
+                          "left": "24",
+                          "isLinked": false
+                        },
+                        "typography_typography": "custom",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "600",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.2,
+                          "sizes": []
+                        },
+                        "background_color": "#00000000",
+                        "button_text_color": "#1F4E5F",
+                        "border_border": "solid",
+                        "border_width": {
+                          "unit": "px",
+                          "top": "1",
+                          "right": "1",
+                          "bottom": "1",
+                          "left": "1",
+                          "isLinked": true
+                        },
+                        "border_color": "#E1E7E8",
+                        "button_background_hover_color": "#1F4E5F",
+                        "hover_color": "#FFFFFF",
+                        "button_hover_border_color": "#1F4E5F",
+                        "_title": "S3 · Bouton carte 2"
+                      },
+                      "elements": [],
+                      "widgetType": "button"
+                    }
+                  ],
+                  "isInner": true
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "2a10025",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 16,
+                  "column": "16",
+                  "row": "16",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 33,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "32",
+                  "right": "28",
+                  "bottom": "32",
+                  "left": "28",
+                  "isLinked": false
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "24",
+                  "right": "22",
+                  "bottom": "24",
+                  "left": "22",
+                  "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "flex_justify_content": "flex-start",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#E1E7E8",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "8",
+                  "right": "8",
+                  "bottom": "8",
+                  "left": "8",
+                  "isLinked": true
+                },
+                "_title": "S3 · Carte 3 — Pôle Animation Culturelle et Sociale"
+              },
+              "elements": [
+                {
+                  "id": "2a10021",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "Cultural and Social Activities",
+                    "header_size": "h3",
+                    "title_color": "#152A33",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 19,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.35,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S3 · H3 carte 3"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "2a10022",
+                  "elType": "widget",
+                  "settings": {
+                    "editor": "<p>This area promotes culture, social activities, and collective initiatives as opportunities for connection, participation, and stronger community ties.</p>",
+                    "text_color": "#45555C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.7,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S3 · Texte carte 3"
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "2a10024",
+                  "elType": "container",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "row",
+                    "flex_gap": {
+                      "unit": "px",
+                      "size": 0,
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true
+                    },
+                    "width": {
+                      "unit": "%",
+                      "size": 100,
+                      "sizes": []
+                    },
+                    "flex_wrap": "wrap",
+                    "_title": "S3 · Bouton carte 3"
+                  },
+                  "elements": [
+                    {
+                      "id": "2a10023",
+                      "elType": "widget",
+                      "settings": {
+                        "text": "Explore This Area",
+                        "link": {
+                          "url": "/nos-poles/animation-culturelle-et-sociale/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "size": "md",
+                        "border_radius": {
+                          "unit": "px",
+                          "top": "4",
+                          "right": "4",
+                          "bottom": "4",
+                          "left": "4",
+                          "isLinked": true
+                        },
+                        "text_padding": {
+                          "unit": "px",
+                          "top": "12",
+                          "right": "22",
+                          "bottom": "12",
+                          "left": "22",
+                          "isLinked": false
+                        },
+                        "text_padding_mobile": {
+                          "unit": "px",
+                          "top": "14",
+                          "right": "24",
+                          "bottom": "14",
+                          "left": "24",
+                          "isLinked": false
+                        },
+                        "typography_typography": "custom",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "600",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.2,
+                          "sizes": []
+                        },
+                        "background_color": "#00000000",
+                        "button_text_color": "#1F4E5F",
+                        "border_border": "solid",
+                        "border_width": {
+                          "unit": "px",
+                          "top": "1",
+                          "right": "1",
+                          "bottom": "1",
+                          "left": "1",
+                          "isLinked": true
+                        },
+                        "border_color": "#E1E7E8",
+                        "button_background_hover_color": "#1F4E5F",
+                        "hover_color": "#FFFFFF",
+                        "button_hover_border_color": "#1F4E5F",
+                        "_title": "S3 · Bouton carte 3"
+                      },
+                      "elements": [],
+                      "widgetType": "button"
+                    }
+                  ],
+                  "isInner": true
+                }
+              ],
+              "isInner": true
+            }
+          ],
+          "isInner": true
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "2a1002e",
+      "elType": "container",
+      "settings": {
+        "content_width": "boxed",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "size": 32,
+          "column": "32",
+          "row": "32",
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "24",
+          "bottom": "100",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "72",
+          "right": "24",
+          "bottom": "72",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "56",
+          "right": "20",
+          "bottom": "56",
+          "left": "20",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "flex_align_items": "center",
+        "_title": "S4 — Projets et programmes"
+      },
+      "elements": [
+        {
+          "id": "2a1002c",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "flex_gap": {
+              "unit": "px",
+              "size": 20,
+              "column": "20",
+              "row": "20",
+              "isLinked": true
+            },
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "flex_align_items": "center",
+            "_title": "S4 · Bloc éditorial"
+          },
+          "elements": [
+            {
+              "id": "2a10028",
+              "elType": "widget",
+              "settings": {
+                "title": "Practical Initiatives That Respond to Identified Needs",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#152A33",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 34,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 30,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 26,
+                  "sizes": []
+                },
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.25,
+                  "sizes": []
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "_title": "S4 · H2"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "2a10029",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>Through its projects and programs, Association Amal Chabab Takaddoum works to carry out initiatives across its areas of work.</p>\n<p>Education, training, support, and community activities: each initiative reflects the association's intention to respond to identified needs and encourage the participation of individuals and communities.</p>\n<p>Explore the documented projects and programs in which the association is involved.</p>",
+                "align": "center",
+                "text_color": "#45555C",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75,
+                  "sizes": []
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "_element_width": "initial",
+                "_element_custom_width": {
+                  "unit": "px",
+                  "size": 780,
+                  "sizes": []
+                },
+                "_element_custom_width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "_title": "S4 · Texte"
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            },
+            {
+              "id": "2a1002b",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "row",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 0,
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_justify_content": "center",
+                "flex_wrap": "wrap",
+                "_title": "S4 · Bouton"
+              },
+              "elements": [
+                {
+                  "id": "2a1002a",
+                  "elType": "widget",
+                  "settings": {
+                    "text": "Explore Our Projects and Programs",
+                    "link": {
+                      "url": "/projets-et-programmes/",
+                      "is_external": "",
+                      "nofollow": "",
+                      "custom_attributes": ""
+                    },
+                    "size": "md",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "4",
+                      "right": "4",
+                      "bottom": "4",
+                      "left": "4",
+                      "isLinked": true
+                    },
+                    "text_padding": {
+                      "unit": "px",
+                      "top": "16",
+                      "right": "32",
+                      "bottom": "16",
+                      "left": "32",
+                      "isLinked": false
+                    },
+                    "text_padding_mobile": {
+                      "unit": "px",
+                      "top": "14",
+                      "right": "24",
+                      "bottom": "14",
+                      "left": "24",
+                      "isLinked": false
+                    },
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.2,
+                      "sizes": []
+                    },
+                    "background_color": "#1F4E5F",
+                    "button_text_color": "#FFFFFF",
+                    "button_background_hover_color": "#152A33",
+                    "button_hover_border_color": "#152A33",
+                    "hover_color": "#FFFFFF",
+                    "_title": "S4 · Bouton → Projets & Programmes"
+                  },
+                  "elements": [],
+                  "widgetType": "button"
+                }
+              ],
+              "isInner": true
+            }
+          ],
+          "isInner": true
+        },
+        {
+          "id": "2a1002d",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_gap": {
+              "unit": "px",
+              "size": 24,
+              "column": "24",
+              "row": "24",
+              "isLinked": true
+            },
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_wrap": "wrap",
+            "hide_desktop": "hidden",
+            "hide_tablet": "hidden",
+            "hide_mobile": "hidden",
+            "_title": "S4 · ZONE RÉSERVÉE — cartes de projets (masquée, à activer quand des fiches réelles existent)"
+          },
+          "elements": [],
+          "isInner": true
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "2a10035",
+      "elType": "container",
+      "settings": {
+        "content_width": "boxed",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "size": 32,
+          "column": "32",
+          "row": "32",
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "24",
+          "bottom": "100",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "72",
+          "right": "24",
+          "bottom": "72",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "56",
+          "right": "20",
+          "bottom": "56",
+          "left": "20",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#F4F6F6",
+        "flex_align_items": "center",
+        "_title": "S5 — Actualités"
+      },
+      "elements": [
+        {
+          "id": "2a10033",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "flex_gap": {
+              "unit": "px",
+              "size": 20,
+              "column": "20",
+              "row": "20",
+              "isLinked": true
+            },
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "flex_align_items": "center",
+            "_title": "S5 · Bloc éditorial"
+          },
+          "elements": [
+            {
+              "id": "2a1002f",
+              "elType": "widget",
+              "settings": {
+                "title": "Stay Connected with Our Community and Initiatives",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#152A33",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 34,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 30,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 26,
+                  "sizes": []
+                },
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.25,
+                  "sizes": []
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "_title": "S5 · H2"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "2a10030",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>Activities, events, meetings, and new initiatives: discover the latest updates from Association Amal Chabab Takaddoum and follow the work and initiatives carried out by the association.</p>",
+                "align": "center",
+                "text_color": "#45555C",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75,
+                  "sizes": []
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "_element_width": "initial",
+                "_element_custom_width": {
+                  "unit": "px",
+                  "size": 780,
+                  "sizes": []
+                },
+                "_element_custom_width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "_title": "S5 · Texte"
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            },
+            {
+              "id": "2a10032",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "row",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 0,
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_justify_content": "center",
+                "flex_wrap": "wrap",
+                "_title": "S5 · Bouton"
+              },
+              "elements": [
+                {
+                  "id": "2a10031",
+                  "elType": "widget",
+                  "settings": {
+                    "text": "View All Updates",
+                    "link": {
+                      "url": "/actualites/",
+                      "is_external": "",
+                      "nofollow": "",
+                      "custom_attributes": ""
+                    },
+                    "size": "md",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "4",
+                      "right": "4",
+                      "bottom": "4",
+                      "left": "4",
+                      "isLinked": true
+                    },
+                    "text_padding": {
+                      "unit": "px",
+                      "top": "16",
+                      "right": "32",
+                      "bottom": "16",
+                      "left": "32",
+                      "isLinked": false
+                    },
+                    "text_padding_mobile": {
+                      "unit": "px",
+                      "top": "14",
+                      "right": "24",
+                      "bottom": "14",
+                      "left": "24",
+                      "isLinked": false
+                    },
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.2,
+                      "sizes": []
+                    },
+                    "background_color": "#1F4E5F",
+                    "button_text_color": "#FFFFFF",
+                    "button_background_hover_color": "#152A33",
+                    "button_hover_border_color": "#152A33",
+                    "hover_color": "#FFFFFF",
+                    "_title": "S5 · Bouton → Actualités"
+                  },
+                  "elements": [],
+                  "widgetType": "button"
+                }
+              ],
+              "isInner": true
+            }
+          ],
+          "isInner": true
+        },
+        {
+          "id": "2a10034",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_gap": {
+              "unit": "px",
+              "size": 24,
+              "column": "24",
+              "row": "24",
+              "isLinked": true
+            },
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_wrap": "wrap",
+            "hide_desktop": "hidden",
+            "hide_tablet": "hidden",
+            "hide_mobile": "hidden",
+            "_title": "S5 · ZONE RÉSERVÉE — articles WordPress réels (masquée, aucun article fictif)"
+          },
+          "elements": [],
+          "isInner": true
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "2a1003a",
+      "elType": "container",
+      "settings": {
+        "content_width": "boxed",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "size": 24,
+          "column": "24",
+          "row": "24",
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "88",
+          "right": "24",
+          "bottom": "88",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "72",
+          "right": "24",
+          "bottom": "72",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "56",
+          "right": "20",
+          "bottom": "56",
+          "left": "20",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#152A33",
+        "flex_align_items": "center",
+        "_title": "S6 — Appel à l’action"
+      },
+      "elements": [
+        {
+          "id": "2a10036",
+          "elType": "widget",
+          "settings": {
+            "title": "Let's Build Meaningful Initiatives Together",
+            "header_size": "h2",
+            "align": "center",
+            "title_color": "#FFFFFF",
+            "typography_typography": "custom",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 34,
+              "sizes": []
+            },
+            "typography_font_size_tablet": {
+              "unit": "px",
+              "size": 30,
+              "sizes": []
+            },
+            "typography_font_size_mobile": {
+              "unit": "px",
+              "size": 26,
+              "sizes": []
+            },
+            "typography_font_weight": "700",
+            "typography_line_height": {
+              "unit": "em",
+              "size": 1.25,
+              "sizes": []
+            },
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "_title": "S6 · H2"
+          },
+          "elements": [],
+          "widgetType": "heading"
+        },
+        {
+          "id": "2a10037",
+          "elType": "widget",
+          "settings": {
+            "editor": "<p>Would you like to learn more about our activities, get in touch with our team, or explore opportunities to collaborate with Association Amal Chabab Takaddoum?</p>\n<p>We would be pleased to hear from you and exchange ideas.</p>",
+            "align": "center",
+            "text_color": "#C7D2D6",
+            "typography_typography": "custom",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 18,
+              "sizes": []
+            },
+            "typography_font_size_tablet": {
+              "unit": "px",
+              "size": 17,
+              "sizes": []
+            },
+            "typography_font_size_mobile": {
+              "unit": "px",
+              "size": 16,
+              "sizes": []
+            },
+            "typography_line_height": {
+              "unit": "em",
+              "size": 1.75,
+              "sizes": []
+            },
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "_element_width": "initial",
+            "_element_custom_width": {
+              "unit": "px",
+              "size": 760,
+              "sizes": []
+            },
+            "_element_custom_width_mobile": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "_title": "S6 · Texte"
+          },
+          "elements": [],
+          "widgetType": "text-editor"
+        },
+        {
+          "id": "2a10039",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_gap": {
+              "unit": "px",
+              "size": 0,
+              "column": "0",
+              "row": "0",
+              "isLinked": true
+            },
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "flex_justify_content": "center",
+            "flex_wrap": "wrap",
+            "_title": "S6 · Bouton"
+          },
+          "elements": [
+            {
+              "id": "2a10038",
+              "elType": "widget",
+              "settings": {
+                "text": "Contact Us",
+                "link": {
+                  "url": "/contact/",
+                  "is_external": "",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                },
+                "size": "md",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "4",
+                  "right": "4",
+                  "bottom": "4",
+                  "left": "4",
+                  "isLinked": true
+                },
+                "text_padding": {
+                  "unit": "px",
+                  "top": "16",
+                  "right": "32",
+                  "bottom": "16",
+                  "left": "32",
+                  "isLinked": false
+                },
+                "text_padding_mobile": {
+                  "unit": "px",
+                  "top": "14",
+                  "right": "24",
+                  "bottom": "14",
+                  "left": "24",
+                  "isLinked": false
+                },
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "typography_font_weight": "600",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.2,
+                  "sizes": []
+                },
+                "background_color": "#FFFFFF",
+                "button_text_color": "#152A33",
+                "button_background_hover_color": "#F4F6F6",
+                "hover_color": "#152A33",
+                "_title": "S6 · Bouton → Contact"
+              },
+              "elements": [],
+              "widgetType": "button"
+            }
+          ],
+          "isInner": true
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "2a1004c",
+      "elType": "container",
+      "settings": {
+        "content_width": "boxed",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "size": 24,
+          "column": "24",
+          "row": "24",
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "64",
+          "right": "24",
+          "bottom": "48",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "56",
+          "right": "24",
+          "bottom": "40",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "48",
+          "right": "20",
+          "bottom": "36",
+          "left": "20",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#152A33",
+        "flex_align_items": "center",
+        "_title": "S7 — Bloc pied de page (contenu de page, pas un footer global)",
+        "border_border": "solid",
+        "border_width": {
+          "unit": "px",
+          "top": "1",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        },
+        "border_color": "#2B4450"
+      },
+      "elements": [
+        {
+          "id": "2a1003b",
+          "elType": "widget",
+          "settings": {
+            "title": "Association Amal Chabab Takaddoum",
+            "header_size": "div",
+            "align": "center",
+            "title_color": "#FFFFFF",
+            "typography_typography": "custom",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 22,
+              "sizes": []
+            },
+            "typography_font_size_tablet": {
+              "unit": "px",
+              "size": 21,
+              "sizes": []
+            },
+            "typography_font_size_mobile": {
+              "unit": "px",
+              "size": 20,
+              "sizes": []
+            },
+            "typography_font_weight": "700",
+            "typography_line_height": {
+              "unit": "em",
+              "size": 1.35,
+              "sizes": []
+            },
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "_title": "S7 · Nom de l’association"
+          },
+          "elements": [],
+          "widgetType": "heading"
+        },
+        {
+          "id": "2a1003c",
+          "elType": "widget",
+          "settings": {
+            "editor": "<p>Youth · Education · Training · Solidarity · Culture</p>",
+            "align": "center",
+            "text_color": "#C7D2D6",
+            "typography_typography": "custom",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 16,
+              "sizes": []
+            },
+            "typography_font_size_tablet": {
+              "unit": "px",
+              "size": 16,
+              "sizes": []
+            },
+            "typography_font_size_mobile": {
+              "unit": "px",
+              "size": 15,
+              "sizes": []
+            },
+            "typography_line_height": {
+              "unit": "em",
+              "size": 1.6,
+              "sizes": []
+            },
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "_title": "S7 · Signature"
+          },
+          "elements": [],
+          "widgetType": "text-editor"
+        },
+        {
+          "id": "2a10049",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_gap": {
+              "unit": "px",
+              "size": 40,
+              "column": "40",
+              "row": "40",
+              "isLinked": true
+            },
+            "flex_gap_mobile": {
+              "unit": "px",
+              "size": 8,
+              "column": "8",
+              "row": "8",
+              "isLinked": true
+            },
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "flex_align_items": "flex-start",
+            "flex_justify_content": "center",
+            "flex_wrap": "wrap",
+            "flex_direction_mobile": "column",
+            "_title": "S7 · Liens (2 colonnes)"
+          },
+          "elements": [
+            {
+              "id": "2a10042",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 0,
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 30,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 45,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "_title": "S7 · Liens colonne 1"
+              },
+              "elements": [
+                {
+                  "id": "2a10041",
+                  "elType": "widget",
+                  "settings": {
+                    "icon_list": [
+                      {
+                        "text": "About the Association",
+                        "selected_icon": {
+                          "value": "",
+                          "library": ""
+                        },
+                        "link": {
+                          "url": "/l-association/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "_id": "2a1003d"
+                      },
+                      {
+                        "text": "Our Areas of Work",
+                        "selected_icon": {
+                          "value": "",
+                          "library": ""
+                        },
+                        "link": {
+                          "url": "/nos-poles/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "_id": "2a1003e"
+                      },
+                      {
+                        "text": "Projects and Programs",
+                        "selected_icon": {
+                          "value": "",
+                          "library": ""
+                        },
+                        "link": {
+                          "url": "/projets-et-programmes/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "_id": "2a1003f"
+                      },
+                      {
+                        "text": "News and Updates",
+                        "selected_icon": {
+                          "value": "",
+                          "library": ""
+                        },
+                        "link": {
+                          "url": "/actualites/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "_id": "2a10040"
+                      }
+                    ],
+                    "view": "traditional",
+                    "text_color": "#C7D2D6",
+                    "icon_color": "#C7D2D6",
+                    "space_between": {
+                      "unit": "px",
+                      "size": 10,
+                      "sizes": []
+                    },
+                    "icon_typography_typography": "custom",
+                    "icon_typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "icon_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.7,
+                      "sizes": []
+                    },
+                    "_title": "S7 · Liens 1-4"
+                  },
+                  "elements": [],
+                  "widgetType": "icon-list"
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "2a10048",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 0,
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 30,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 45,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "_title": "S7 · Liens colonne 2"
+              },
+              "elements": [
+                {
+                  "id": "2a10047",
+                  "elType": "widget",
+                  "settings": {
+                    "icon_list": [
+                      {
+                        "text": "Partners",
+                        "selected_icon": {
+                          "value": "",
+                          "library": ""
+                        },
+                        "link": {
+                          "url": "/partenaires/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "_id": "2a10043"
+                      },
+                      {
+                        "text": "Achievements",
+                        "selected_icon": {
+                          "value": "",
+                          "library": ""
+                        },
+                        "link": {
+                          "url": "/realisations/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "_id": "2a10044"
+                      },
+                      {
+                        "text": "Publications and Resources",
+                        "selected_icon": {
+                          "value": "",
+                          "library": ""
+                        },
+                        "link": {
+                          "url": "/publications-et-ressources/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "_id": "2a10045"
+                      },
+                      {
+                        "text": "Contact",
+                        "selected_icon": {
+                          "value": "",
+                          "library": ""
+                        },
+                        "link": {
+                          "url": "/contact/",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "_id": "2a10046"
+                      }
+                    ],
+                    "view": "traditional",
+                    "text_color": "#C7D2D6",
+                    "icon_color": "#C7D2D6",
+                    "space_between": {
+                      "unit": "px",
+                      "size": 10,
+                      "sizes": []
+                    },
+                    "icon_typography_typography": "custom",
+                    "icon_typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "icon_typography_line_height": {
+                      "unit": "em",
+                      "size": 1.7,
+                      "sizes": []
+                    },
+                    "_title": "S7 · Liens 5-8"
+                  },
+                  "elements": [],
+                  "widgetType": "icon-list"
+                }
+              ],
+              "isInner": true
+            }
+          ],
+          "isInner": true
+        },
+        {
+          "id": "2a1004a",
+          "elType": "widget",
+          "settings": {
+            "color": "#2B4450",
+            "weight": {
+              "unit": "px",
+              "size": 1,
+              "sizes": []
+            },
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "gap": {
+              "unit": "px",
+              "size": 16,
+              "sizes": []
+            },
+            "style": "solid",
+            "align": "center",
+            "_title": "S7 · Séparateur"
+          },
+          "elements": [],
+          "widgetType": "divider"
+        },
+        {
+          "id": "2a1004b",
+          "elType": "widget",
+          "settings": {
+            "editor": "<p>© Association Amal Chabab Takaddoum — All rights reserved.</p>",
+            "align": "center",
+            "text_color": "#9FB0B6",
+            "typography_typography": "custom",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 14,
+              "sizes": []
+            },
+            "typography_font_size_tablet": {
+              "unit": "px",
+              "size": 14,
+              "sizes": []
+            },
+            "typography_font_size_mobile": {
+              "unit": "px",
+              "size": 13,
+              "sizes": []
+            },
+            "typography_line_height": {
+              "unit": "em",
+              "size": 1.6,
+              "sizes": []
+            },
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "_title": "S7 · Mention légale"
+          },
+          "elements": [],
+          "widgetType": "text-editor"
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": {
+    "template": "elementor_header_footer",
+    "hide_title": "yes"
+  }
+}
