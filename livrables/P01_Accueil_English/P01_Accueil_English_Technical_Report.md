@@ -88,7 +88,7 @@ All values are **preserved without adaptation**:
 - **Spacing:** section paddings (96–100 / 72 / 56), card and button paddings, and `flex_gap`.
 - **Wrapping:** `flex_wrap` and `flex_direction_mobile: column`.
 
-Point to watch: the English H1 has 84 characters, longer than the French one (61). Check line breaks at 30 px on mobile and 38 px on tablet. Button labels such as “Explore Our Projects and Programs” and “Learn More About the Association” should also be checked on mobile, since wrapping is enabled in their containers.
+Point to watch: the English H1 has 89 characters, longer than the French one (64). Check line breaks at 30 px on mobile and 38 px on tablet. Button labels such as “Explore Our Projects and Programs” and “Learn More About the Association” should also be checked on mobile, since wrapping is enabled in their containers.
 
 ## 7. Internal links requiring manual Polylang association
 
