@@ -1,0 +1,4450 @@
+{
+  "version": "0.4",
+  "title": "P-02 L’association (AR) — Association Amal Chabab Takaddoum",
+  "type": "page",
+  "content": [
+    {
+      "id": "4c30001",
+      "elType": "container",
+      "settings": {
+        "content_width": "boxed",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "size": 0,
+          "column": "0",
+          "row": "0",
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "96",
+          "right": "24",
+          "bottom": "96",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "72",
+          "right": "24",
+          "bottom": "72",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "56",
+          "right": "20",
+          "bottom": "56",
+          "left": "20",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#F4F6F6",
+        "_title": "S1 — Bannière"
+      },
+      "elements": [
+        {
+          "id": "4c30002",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_gap": {
+              "unit": "px",
+              "size": 48,
+              "column": "48",
+              "row": "48",
+              "isLinked": true
+            },
+            "flex_gap_tablet": {
+              "unit": "px",
+              "size": 32,
+              "column": "32",
+              "row": "32",
+              "isLinked": true
+            },
+            "flex_gap_mobile": {
+              "unit": "px",
+              "size": 32,
+              "column": "32",
+              "row": "32",
+              "isLinked": true
+            },
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "flex_align_items": "center",
+            "flex_wrap": "nowrap",
+            "flex_wrap_tablet": "wrap",
+            "flex_direction_mobile": "column",
+            "_title": "S1 · Ligne 2 colonnes"
+          },
+          "elements": [
+            {
+              "id": "4c30003",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 20,
+                  "column": "20",
+                  "row": "20",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 58,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "_title": "S1 · Colonne texte"
+              },
+              "elements": [
+                {
+                  "id": "4c30004",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "جمعية أمل شباب التقدم",
+                    "header_size": "h1",
+                    "title_color": "#152A33",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 44,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 38,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 30,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.18,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S1 · H1",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "4c30005",
+                  "elType": "widget",
+                  "settings": {
+                    "editor": "<p>طموح جماعي في خدمة الشباب والتنمية الاجتماعية.</p>",
+                    "text_color": "#1F4E5F",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 19,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.5,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S1 · Sous-titre",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "4c30006",
+                  "elType": "widget",
+                  "settings": {
+                    "editor": "<p>تقديم هوية الجمعية ورسالتها.</p>",
+                    "text_color": "#45555C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.75,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S1 · Texte",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                },
+                {
+                  "id": "4c30007",
+                  "elType": "container",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_direction": "row",
+                    "flex_gap": {
+                      "unit": "px",
+                      "size": 16,
+                      "column": "16",
+                      "row": "16",
+                      "isLinked": true
+                    },
+                    "width": {
+                      "unit": "%",
+                      "size": 100,
+                      "sizes": []
+                    },
+                    "flex_align_items": "center",
+                    "flex_wrap": "wrap",
+                    "_title": "S1 · Boutons"
+                  },
+                  "elements": [
+                    {
+                      "id": "4c30008",
+                      "elType": "widget",
+                      "settings": {
+                        "text": "مهامنا",
+                        "link": {
+                          "url": "#missions",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "size": "md",
+                        "border_radius": {
+                          "unit": "px",
+                          "top": "4",
+                          "right": "4",
+                          "bottom": "4",
+                          "left": "4",
+                          "isLinked": true
+                        },
+                        "text_padding": {
+                          "unit": "px",
+                          "top": "16",
+                          "right": "32",
+                          "bottom": "16",
+                          "left": "32",
+                          "isLinked": false
+                        },
+                        "text_padding_mobile": {
+                          "unit": "px",
+                          "top": "14",
+                          "right": "24",
+                          "bottom": "14",
+                          "left": "24",
+                          "isLinked": false
+                        },
+                        "typography_typography": "custom",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "600",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.2,
+                          "sizes": []
+                        },
+                        "background_color": "#1F4E5F",
+                        "button_text_color": "#FFFFFF",
+                        "button_background_hover_color": "#152A33",
+                        "button_hover_border_color": "#152A33",
+                        "hover_color": "#FFFFFF",
+                        "_title": "S1 · Bouton 1 → ancre #missions"
+                      },
+                      "elements": [],
+                      "widgetType": "button"
+                    },
+                    {
+                      "id": "4c30009",
+                      "elType": "widget",
+                      "settings": {
+                        "text": "تنظيمنا",
+                        "link": {
+                          "url": "#organisation",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "size": "md",
+                        "border_radius": {
+                          "unit": "px",
+                          "top": "4",
+                          "right": "4",
+                          "bottom": "4",
+                          "left": "4",
+                          "isLinked": true
+                        },
+                        "text_padding": {
+                          "unit": "px",
+                          "top": "16",
+                          "right": "32",
+                          "bottom": "16",
+                          "left": "32",
+                          "isLinked": false
+                        },
+                        "text_padding_mobile": {
+                          "unit": "px",
+                          "top": "14",
+                          "right": "24",
+                          "bottom": "14",
+                          "left": "24",
+                          "isLinked": false
+                        },
+                        "typography_typography": "custom",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "600",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.2,
+                          "sizes": []
+                        },
+                        "background_color": "#00000000",
+                        "button_text_color": "#1F4E5F",
+                        "border_border": "solid",
+                        "border_width": {
+                          "unit": "px",
+                          "top": "1",
+                          "right": "1",
+                          "bottom": "1",
+                          "left": "1",
+                          "isLinked": true
+                        },
+                        "border_color": "#1F4E5F",
+                        "button_background_hover_color": "#1F4E5F",
+                        "hover_color": "#FFFFFF",
+                        "button_hover_border_color": "#1F4E5F",
+                        "_title": "S1 · Bouton 2 → ancre #organisation"
+                      },
+                      "elements": [],
+                      "widgetType": "button"
+                    }
+                  ],
+                  "isInner": true
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "4c3000a",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 0,
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 38,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "_title": "S1 · Colonne visuel (image à remplacer)"
+              },
+              "elements": [
+                {
+                  "id": "4c3000b",
+                  "elType": "widget",
+                  "settings": {
+                    "image": {
+                      "url": "https://amalchababtakadoum.org/wp-content/plugins/elementor/assets/images/placeholder.png",
+                      "id": "",
+                      "size": "",
+                      "alt": "",
+                      "source": "library"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "image_border_radius": {
+                      "unit": "px",
+                      "top": "8",
+                      "right": "8",
+                      "bottom": "8",
+                      "left": "8",
+                      "isLinked": true
+                    },
+                    "_title": "S1 · IMAGE À REMPLACER — visuel institutionnel"
+                  },
+                  "elements": [],
+                  "widgetType": "image"
+                }
+              ],
+              "isInner": true
+            }
+          ],
+          "isInner": true
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "4c3000c",
+      "elType": "container",
+      "settings": {
+        "content_width": "boxed",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "size": 0,
+          "column": "0",
+          "row": "0",
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "24",
+          "bottom": "100",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "72",
+          "right": "24",
+          "bottom": "72",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "56",
+          "right": "20",
+          "bottom": "56",
+          "left": "20",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "_title": "S2 — Identité"
+      },
+      "elements": [
+        {
+          "id": "4c3000d",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_gap": {
+              "unit": "px",
+              "size": 48,
+              "column": "48",
+              "row": "48",
+              "isLinked": true
+            },
+            "flex_gap_tablet": {
+              "unit": "px",
+              "size": 32,
+              "column": "32",
+              "row": "32",
+              "isLinked": true
+            },
+            "flex_gap_mobile": {
+              "unit": "px",
+              "size": 32,
+              "column": "32",
+              "row": "32",
+              "isLinked": true
+            },
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "flex_align_items": "center",
+            "flex_wrap": "nowrap",
+            "flex_wrap_tablet": "wrap",
+            "flex_direction_mobile": "column",
+            "_title": "S2 · Ligne 2 colonnes"
+          },
+          "elements": [
+            {
+              "id": "4c3000e",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 24,
+                  "column": "24",
+                  "row": "24",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 57,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "_title": "S2 · Colonne texte"
+              },
+              "elements": [
+                {
+                  "id": "4c3000f",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "جمعية متجذرة في محيطها الترابي",
+                    "header_size": "h2",
+                    "title_color": "#152A33",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 34,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 30,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 26,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.25,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S2 · H2",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "4c30010",
+                  "elType": "widget",
+                  "settings": {
+                    "editor": "<p>جمعية أمل شباب التقدم منظمة جمعوية مغربية يوجد مقرها الاجتماعي بمدينة الرباط. وتُعرف باللغة الإنجليزية باسم «Amal for Progress»، وتندرج التزاماتها ضمن النهوض بالتنمية والثقافة والعمل الاجتماعي والرياضة لفائدة الشباب.</p>\n<p>ويقوم مشروعها الجمعوي على قناعة مفادها أن انخراط الشباب والتضامن والمشاركة المواطنة تشكل روافع مهمة لمواكبة ديناميات التقدم داخل المجتمع.</p>\n<p>ومن خلال توجهاتها المنصوص عليها في قانونها الأساسي، تسعى الجمعية إلى الإسهام في تثمين المواهب، وتحسين فرص التعليم والتكوين، وتعزيز التضامن، ومشاركة الشباب في الحياة الجماعية.</p>\n<p>ويشكل حضورها بمدينة الرباط الإطار الترابي لالتزامها، مع التنصيص على الانفتاح على التعاون مع الجمعيات والهيئات التي تتقاسم معها أهدافًا مماثلة، على المستويين الوطني والدولي.</p>",
+                    "text_color": "#45555C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.75,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S2 · Texte (4 paragraphes)",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "4c30011",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 0,
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 39,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "_title": "S2 · Colonne visuel (image à remplacer)"
+              },
+              "elements": [
+                {
+                  "id": "4c30012",
+                  "elType": "widget",
+                  "settings": {
+                    "image": {
+                      "url": "https://amalchababtakadoum.org/wp-content/plugins/elementor/assets/images/placeholder.png",
+                      "id": "",
+                      "size": "",
+                      "alt": "",
+                      "source": "library"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "image_border_radius": {
+                      "unit": "px",
+                      "top": "8",
+                      "right": "8",
+                      "bottom": "8",
+                      "left": "8",
+                      "isLinked": true
+                    },
+                    "_title": "S2 · IMAGE À REMPLACER — ancrage territorial à Rabat"
+                  },
+                  "elements": [],
+                  "widgetType": "image"
+                }
+              ],
+              "isInner": true
+            }
+          ],
+          "isInner": true
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "4c30013",
+      "elType": "container",
+      "settings": {
+        "content_width": "boxed",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "size": 40,
+          "column": "40",
+          "row": "40",
+          "isLinked": true
+        },
+        "flex_gap_mobile": {
+          "unit": "px",
+          "size": 32,
+          "column": "32",
+          "row": "32",
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "24",
+          "bottom": "100",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "72",
+          "right": "24",
+          "bottom": "72",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "56",
+          "right": "20",
+          "bottom": "56",
+          "left": "20",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#F4F6F6",
+        "flex_align_items": "center",
+        "_title": "S3 — Mission et objectifs (ancre #missions)",
+        "_element_id": "missions"
+      },
+      "elements": [
+        {
+          "id": "4c30014",
+          "elType": "widget",
+          "settings": {
+            "title": "مهمتنا وأهدافنا",
+            "header_size": "h2",
+            "align": "center",
+            "title_color": "#152A33",
+            "typography_typography": "custom",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 34,
+              "sizes": []
+            },
+            "typography_font_size_tablet": {
+              "unit": "px",
+              "size": 30,
+              "sizes": []
+            },
+            "typography_font_size_mobile": {
+              "unit": "px",
+              "size": 26,
+              "sizes": []
+            },
+            "typography_font_weight": "700",
+            "typography_line_height": {
+              "unit": "em",
+              "size": 1.25,
+              "sizes": []
+            },
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "_title": "S3 · H2"
+          },
+          "elements": [],
+          "widgetType": "heading"
+        },
+        {
+          "id": "4c30015",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_gap": {
+              "unit": "px",
+              "size": 24,
+              "column": "24",
+              "row": "24",
+              "isLinked": true
+            },
+            "flex_gap_mobile": {
+              "unit": "px",
+              "size": 20,
+              "column": "20",
+              "row": "20",
+              "isLinked": true
+            },
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "flex_align_items": "stretch",
+            "flex_wrap": "wrap",
+            "flex_direction_mobile": "column",
+            "_title": "S3 · Grille des 5 objectifs"
+          },
+          "elements": [
+            {
+              "id": "4c30016",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 14,
+                  "column": "14",
+                  "row": "14",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "32",
+                  "right": "28",
+                  "bottom": "32",
+                  "left": "28",
+                  "isLinked": false
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "24",
+                  "right": "22",
+                  "bottom": "24",
+                  "left": "22",
+                  "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "flex_justify_content": "flex-start",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#E1E7E8",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "8",
+                  "right": "8",
+                  "bottom": "8",
+                  "left": "8",
+                  "isLinked": true
+                },
+                "_title": "S3 · Objectif 1 — Encourager l'engagement et la part"
+              },
+              "elements": [
+                {
+                  "id": "4c30017",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "تشجيع الانخراط والمشاركة المواطنة",
+                    "header_size": "h3",
+                    "title_color": "#152A33",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 19,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.35,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S3 · H3 objectif 1",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "4c30018",
+                  "elType": "widget",
+                  "settings": {
+                    "editor": "<p>تسعى الجمعية إلى تعزيز انخراط الشباب في الحياة المدنية، وتشجيع مبادراتهم، والإسهام في تثمين كفاءاتهم ومواهبهم وقدرتهم على الفعل في محيطهم.</p>",
+                    "text_color": "#45555C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.7,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S3 · Texte objectif 1",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "4c30019",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 14,
+                  "column": "14",
+                  "row": "14",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "32",
+                  "right": "28",
+                  "bottom": "32",
+                  "left": "28",
+                  "isLinked": false
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "24",
+                  "right": "22",
+                  "bottom": "24",
+                  "left": "22",
+                  "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "flex_justify_content": "flex-start",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#E1E7E8",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "8",
+                  "right": "8",
+                  "bottom": "8",
+                  "left": "8",
+                  "isLinked": true
+                },
+                "_title": "S3 · Objectif 2 — Promouvoir l'éducation et la forma"
+              },
+              "elements": [
+                {
+                  "id": "4c3001a",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "النهوض بالتعليم والتكوين",
+                    "header_size": "h3",
+                    "title_color": "#152A33",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 19,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.35,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S3 · H3 objectif 2",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "4c3001b",
+                  "elType": "widget",
+                  "settings": {
+                    "editor": "<p>تولي التوجهات المنصوص عليها في القانون الأساسي مكانة مهمة للتربية غير النظامية، ومحاربة الأمية، والتكوين المهني، والمواكبة التربوية للأطفال والشباب.</p>",
+                    "text_color": "#45555C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.7,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S3 · Texte objectif 2",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "4c3001c",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 14,
+                  "column": "14",
+                  "row": "14",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "32",
+                  "right": "28",
+                  "bottom": "32",
+                  "left": "28",
+                  "isLinked": false
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "24",
+                  "right": "22",
+                  "bottom": "24",
+                  "left": "22",
+                  "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "flex_justify_content": "flex-start",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#E1E7E8",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "8",
+                  "right": "8",
+                  "bottom": "8",
+                  "left": "8",
+                  "isLinked": true
+                },
+                "_title": "S3 · Objectif 3 — Renforcer la solidarité et l'inclu"
+              },
+              "elements": [
+                {
+                  "id": "4c3001d",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "تعزيز التضامن والإدماج الاجتماعي",
+                    "header_size": "h3",
+                    "title_color": "#152A33",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 19,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.35,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S3 · H3 objectif 3",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "4c3001e",
+                  "elType": "widget",
+                  "settings": {
+                    "editor": "<p>تُدرج الجمعية التضامن والعمل التطوعي ضمن روافع عملها. كما ينص قانونها الأساسي على إيلاء العناية للأشخاص في وضعية هشاشة وللفئات التي تحتاج إلى مواكبة ملائمة، وذلك في حدود الموارد والظروف المتاحة.</p>",
+                    "text_color": "#45555C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.7,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S3 · Texte objectif 3",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "4c3001f",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 14,
+                  "column": "14",
+                  "row": "14",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "32",
+                  "right": "28",
+                  "bottom": "32",
+                  "left": "28",
+                  "isLinked": false
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "24",
+                  "right": "22",
+                  "bottom": "24",
+                  "left": "22",
+                  "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "flex_justify_content": "flex-start",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#E1E7E8",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "8",
+                  "right": "8",
+                  "bottom": "8",
+                  "left": "8",
+                  "isLinked": true
+                },
+                "_title": "S3 · Objectif 4 — Valoriser la culture, les arts et "
+              },
+              "elements": [
+                {
+                  "id": "4c30020",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "تثمين الثقافة والفنون والرياضة",
+                    "header_size": "h3",
+                    "title_color": "#152A33",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 19,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.35,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S3 · H3 objectif 4",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "4c30021",
+                  "elType": "widget",
+                  "settings": {
+                    "editor": "<p>يندرج النهوض بالأنشطة الثقافية والفنية والسينمائية والرياضية ضمن مجالات التدخل المنصوص عليها في القانون الأساسي. ويُنظر إلى هذه الأنشطة باعتبارها فضاءات للتعبير والتعلم واللقاء والمشاركة.</p>",
+                    "text_color": "#45555C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.7,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S3 · Texte objectif 4",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "4c30022",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 14,
+                  "column": "14",
+                  "row": "14",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "32",
+                  "right": "28",
+                  "bottom": "32",
+                  "left": "28",
+                  "isLinked": false
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "24",
+                  "right": "22",
+                  "bottom": "24",
+                  "left": "22",
+                  "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "flex_justify_content": "flex-start",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#E1E7E8",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "8",
+                  "right": "8",
+                  "bottom": "8",
+                  "left": "8",
+                  "isLinked": true
+                },
+                "_title": "S3 · Objectif 5 — Sensibiliser à l'environnement et "
+              },
+              "elements": [
+                {
+                  "id": "4c30023",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "التحسيس بقضايا البيئة والتنمية المستدامة",
+                    "header_size": "h3",
+                    "title_color": "#152A33",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 19,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.35,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S3 · H3 objectif 5",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "4c30024",
+                  "elType": "widget",
+                  "settings": {
+                    "editor": "<p>كما تُدرج الجمعية ضمن أهدافها التحسيس بالقضايا البيئية وبمتطلبات التنمية المستدامة، من خلال مبادرات وأنشطة ملائمة.</p>",
+                    "text_color": "#45555C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.7,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S3 · Texte objectif 5",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                }
+              ],
+              "isInner": true
+            }
+          ],
+          "isInner": true
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "4c30025",
+      "elType": "container",
+      "settings": {
+        "content_width": "boxed",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "size": 40,
+          "column": "40",
+          "row": "40",
+          "isLinked": true
+        },
+        "flex_gap_mobile": {
+          "unit": "px",
+          "size": 32,
+          "column": "32",
+          "row": "32",
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "24",
+          "bottom": "100",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "72",
+          "right": "24",
+          "bottom": "72",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "56",
+          "right": "20",
+          "bottom": "56",
+          "left": "20",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "flex_align_items": "center",
+        "_title": "S4 — Valeurs"
+      },
+      "elements": [
+        {
+          "id": "4c30026",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "flex_gap": {
+              "unit": "px",
+              "size": 16,
+              "column": "16",
+              "row": "16",
+              "isLinked": true
+            },
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "flex_align_items": "center",
+            "_title": "S4 · En-tête"
+          },
+          "elements": [
+            {
+              "id": "4c30027",
+              "elType": "widget",
+              "settings": {
+                "title": "القيم التي توجّه التزامنا",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#152A33",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 34,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 30,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 26,
+                  "sizes": []
+                },
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.25,
+                  "sizes": []
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "_title": "S4 · H2"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "4c30028",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>يستند العمل الجمعوي لجمعية أمل شباب التقدم إلى مبادئ توجّه أهدافها وطريقة اشتغالها:</p>",
+                "align": "center",
+                "text_color": "#45555C",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75,
+                  "sizes": []
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "_element_width": "initial",
+                "_element_custom_width": {
+                  "unit": "px",
+                  "size": 760,
+                  "sizes": []
+                },
+                "_element_custom_width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "_title": "S4 · Introduction"
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            }
+          ],
+          "isInner": true
+        },
+        {
+          "id": "4c30029",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_gap": {
+              "unit": "px",
+              "size": 24,
+              "column": "24",
+              "row": "24",
+              "isLinked": true
+            },
+            "flex_gap_mobile": {
+              "unit": "px",
+              "size": 20,
+              "column": "20",
+              "row": "20",
+              "isLinked": true
+            },
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "flex_align_items": "stretch",
+            "flex_wrap": "wrap",
+            "flex_direction_mobile": "column",
+            "_title": "S4 · Grille des 6 valeurs"
+          },
+          "elements": [
+            {
+              "id": "4c3002a",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 14,
+                  "column": "14",
+                  "row": "14",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 32,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "28",
+                  "right": "26",
+                  "bottom": "28",
+                  "left": "26",
+                  "isLinked": false
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "24",
+                  "right": "22",
+                  "bottom": "24",
+                  "left": "22",
+                  "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#F4F6F6",
+                "flex_justify_content": "flex-start",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#E1E7E8",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "8",
+                  "right": "8",
+                  "bottom": "8",
+                  "left": "8",
+                  "isLinked": true
+                },
+                "_title": "S4 · Valeur 1 — Citoyenneté"
+              },
+              "elements": [
+                {
+                  "id": "4c3002b",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "المواطنة",
+                    "header_size": "h3",
+                    "title_color": "#1F4E5F",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.35,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S4 · H3 valeur 1",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "4c3002c",
+                  "elType": "widget",
+                  "settings": {
+                    "editor": "<p>تشجيع المشاركة المسؤولة في الحياة الجماعية.</p>",
+                    "text_color": "#45555C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.7,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S4 · Texte valeur 1",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "4c3002d",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 14,
+                  "column": "14",
+                  "row": "14",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 32,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "28",
+                  "right": "26",
+                  "bottom": "28",
+                  "left": "26",
+                  "isLinked": false
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "24",
+                  "right": "22",
+                  "bottom": "24",
+                  "left": "22",
+                  "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#F4F6F6",
+                "flex_justify_content": "flex-start",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#E1E7E8",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "8",
+                  "right": "8",
+                  "bottom": "8",
+                  "left": "8",
+                  "isLinked": true
+                },
+                "_title": "S4 · Valeur 2 — Égalité et justice sociale"
+              },
+              "elements": [
+                {
+                  "id": "4c3002e",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "المساواة والعدالة الاجتماعية",
+                    "header_size": "h3",
+                    "title_color": "#1F4E5F",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.35,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S4 · H3 valeur 2",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "4c3002f",
+                  "elType": "widget",
+                  "settings": {
+                    "editor": "<p>النهوض بعلاقات قائمة على احترام الحقوق والكرامة.</p>",
+                    "text_color": "#45555C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.7,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S4 · Texte valeur 2",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "4c30030",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 14,
+                  "column": "14",
+                  "row": "14",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 32,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "28",
+                  "right": "26",
+                  "bottom": "28",
+                  "left": "26",
+                  "isLinked": false
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "24",
+                  "right": "22",
+                  "bottom": "24",
+                  "left": "22",
+                  "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#F4F6F6",
+                "flex_justify_content": "flex-start",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#E1E7E8",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "8",
+                  "right": "8",
+                  "bottom": "8",
+                  "left": "8",
+                  "isLinked": true
+                },
+                "_title": "S4 · Valeur 3 — Solidarité"
+              },
+              "elements": [
+                {
+                  "id": "4c30031",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "التضامن",
+                    "header_size": "h3",
+                    "title_color": "#1F4E5F",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.35,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S4 · H3 valeur 3",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "4c30032",
+                  "elType": "widget",
+                  "settings": {
+                    "editor": "<p>تنمية التآزر والعمل التطوعي والتعاون.</p>",
+                    "text_color": "#45555C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.7,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S4 · Texte valeur 3",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "4c30033",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 14,
+                  "column": "14",
+                  "row": "14",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 32,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "28",
+                  "right": "26",
+                  "bottom": "28",
+                  "left": "26",
+                  "isLinked": false
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "24",
+                  "right": "22",
+                  "bottom": "24",
+                  "left": "22",
+                  "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#F4F6F6",
+                "flex_justify_content": "flex-start",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#E1E7E8",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "8",
+                  "right": "8",
+                  "bottom": "8",
+                  "left": "8",
+                  "isLinked": true
+                },
+                "_title": "S4 · Valeur 4 — Tolérance"
+              },
+              "elements": [
+                {
+                  "id": "4c30034",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "التسامح",
+                    "header_size": "h3",
+                    "title_color": "#1F4E5F",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.35,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S4 · H3 valeur 4",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "4c30035",
+                  "elType": "widget",
+                  "settings": {
+                    "editor": "<p>تعزيز الحوار والتفاهم والاحترام المتبادل.</p>",
+                    "text_color": "#45555C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.7,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S4 · Texte valeur 4",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "4c30036",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 14,
+                  "column": "14",
+                  "row": "14",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 32,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "28",
+                  "right": "26",
+                  "bottom": "28",
+                  "left": "26",
+                  "isLinked": false
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "24",
+                  "right": "22",
+                  "bottom": "24",
+                  "left": "22",
+                  "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#F4F6F6",
+                "flex_justify_content": "flex-start",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#E1E7E8",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "8",
+                  "right": "8",
+                  "bottom": "8",
+                  "left": "8",
+                  "isLinked": true
+                },
+                "_title": "S4 · Valeur 5 — Responsabilité"
+              },
+              "elements": [
+                {
+                  "id": "4c30037",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "المسؤولية",
+                    "header_size": "h3",
+                    "title_color": "#1F4E5F",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.35,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S4 · H3 valeur 5",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "4c30038",
+                  "elType": "widget",
+                  "settings": {
+                    "editor": "<p>إدراج الالتزام ضمن مقاربة جادة وبنّاءة.</p>",
+                    "text_color": "#45555C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.7,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S4 · Texte valeur 5",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "4c30039",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 14,
+                  "column": "14",
+                  "row": "14",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 32,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "28",
+                  "right": "26",
+                  "bottom": "28",
+                  "left": "26",
+                  "isLinked": false
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "24",
+                  "right": "22",
+                  "bottom": "24",
+                  "left": "22",
+                  "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#F4F6F6",
+                "flex_justify_content": "flex-start",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#E1E7E8",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "8",
+                  "right": "8",
+                  "bottom": "8",
+                  "left": "8",
+                  "isLinked": true
+                },
+                "_title": "S4 · Valeur 6 — Initiative"
+              },
+              "elements": [
+                {
+                  "id": "4c3003a",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "المبادرة",
+                    "header_size": "h3",
+                    "title_color": "#1F4E5F",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.35,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S4 · H3 valeur 6",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "4c3003b",
+                  "elType": "widget",
+                  "settings": {
+                    "editor": "<p>تثمين المواهب والأفكار والقدرات على الفعل.</p>",
+                    "text_color": "#45555C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.7,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S4 · Texte valeur 6",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                }
+              ],
+              "isInner": true
+            }
+          ],
+          "isInner": true
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "4c3003c",
+      "elType": "container",
+      "settings": {
+        "content_width": "boxed",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "size": 40,
+          "column": "40",
+          "row": "40",
+          "isLinked": true
+        },
+        "flex_gap_mobile": {
+          "unit": "px",
+          "size": 32,
+          "column": "32",
+          "row": "32",
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "24",
+          "bottom": "100",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "72",
+          "right": "24",
+          "bottom": "72",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "56",
+          "right": "20",
+          "bottom": "56",
+          "left": "20",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#F4F6F6",
+        "flex_align_items": "center",
+        "_title": "S5 — Organisation (ancre #organisation)",
+        "_element_id": "organisation"
+      },
+      "elements": [
+        {
+          "id": "4c3003d",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "flex_gap": {
+              "unit": "px",
+              "size": 16,
+              "column": "16",
+              "row": "16",
+              "isLinked": true
+            },
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "flex_align_items": "center",
+            "_title": "S5 · En-tête"
+          },
+          "elements": [
+            {
+              "id": "4c3003e",
+              "elType": "widget",
+              "settings": {
+                "title": "تنظيم مُهيكل",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#152A33",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 34,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 30,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 26,
+                  "sizes": []
+                },
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.25,
+                  "sizes": []
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "_title": "S5 · H2"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "4c3003f",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>ينص القانون الأساسي للجمعية على عدة هيئات تساهم في تنظيمها وسير عملها.</p>",
+                "align": "center",
+                "text_color": "#45555C",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75,
+                  "sizes": []
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "_element_width": "initial",
+                "_element_custom_width": {
+                  "unit": "px",
+                  "size": 760,
+                  "sizes": []
+                },
+                "_element_custom_width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "_title": "S5 · Introduction"
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            }
+          ],
+          "isInner": true
+        },
+        {
+          "id": "4c30040",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_gap": {
+              "unit": "px",
+              "size": 24,
+              "column": "24",
+              "row": "24",
+              "isLinked": true
+            },
+            "flex_gap_mobile": {
+              "unit": "px",
+              "size": 20,
+              "column": "20",
+              "row": "20",
+              "isLinked": true
+            },
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "flex_align_items": "stretch",
+            "flex_wrap": "nowrap",
+            "flex_wrap_tablet": "wrap",
+            "flex_direction_mobile": "column",
+            "_title": "S5 · Grille des 3 instances"
+          },
+          "elements": [
+            {
+              "id": "4c30041",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 14,
+                  "column": "14",
+                  "row": "14",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 33,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "32",
+                  "right": "28",
+                  "bottom": "32",
+                  "left": "28",
+                  "isLinked": false
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "24",
+                  "right": "22",
+                  "bottom": "24",
+                  "left": "22",
+                  "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "flex_justify_content": "flex-start",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#E1E7E8",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "8",
+                  "right": "8",
+                  "bottom": "8",
+                  "left": "8",
+                  "isLinked": true
+                },
+                "_title": "S5 · Instance 1 — L'Assemblée générale"
+              },
+              "elements": [
+                {
+                  "id": "4c30042",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "الجمع العام",
+                    "header_size": "h3",
+                    "title_color": "#152A33",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 19,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.35,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S5 · H3 instance 1",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "4c30043",
+                  "elType": "widget",
+                  "settings": {
+                    "editor": "<p>يشكل الهيئة الجمعوية التي تضم فئات الأعضاء المنصوص عليها في القانون الأساسي. ويساهم في تحديد التوجهات العامة ودراسة تقارير الجمعية.</p>",
+                    "text_color": "#45555C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.7,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S5 · Texte instance 1",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "4c30044",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 14,
+                  "column": "14",
+                  "row": "14",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 33,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "32",
+                  "right": "28",
+                  "bottom": "32",
+                  "left": "28",
+                  "isLinked": false
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "24",
+                  "right": "22",
+                  "bottom": "24",
+                  "left": "22",
+                  "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "flex_justify_content": "flex-start",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#E1E7E8",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "8",
+                  "right": "8",
+                  "bottom": "8",
+                  "left": "8",
+                  "isLinked": true
+                },
+                "_title": "S5 · Instance 2 — Le Bureau exécutif"
+              },
+              "elements": [
+                {
+                  "id": "4c30045",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "المكتب التنفيذي",
+                    "header_size": "h3",
+                    "title_color": "#152A33",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 19,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.35,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S5 · H3 instance 2",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "4c30046",
+                  "elType": "widget",
+                  "settings": {
+                    "editor": "<p>ينص القانون الأساسي على مكتب تنفيذي يتكون من خمسة أعضاء ينتخبهم الجمع العام. ويتولى على الخصوص الإشراف على تنظيم اللجان وأقطاب العمل، وتتبع تنفيذ البرامج المسطرة.</p>",
+                    "text_color": "#45555C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.7,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S5 · Texte instance 2",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "4c30047",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 14,
+                  "column": "14",
+                  "row": "14",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 33,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "32",
+                  "right": "28",
+                  "bottom": "32",
+                  "left": "28",
+                  "isLinked": false
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "24",
+                  "right": "22",
+                  "bottom": "24",
+                  "left": "22",
+                  "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "flex_justify_content": "flex-start",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#E1E7E8",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "8",
+                  "right": "8",
+                  "bottom": "8",
+                  "left": "8",
+                  "isLinked": true
+                },
+                "_title": "S5 · Instance 3 — Les commissions"
+              },
+              "elements": [
+                {
+                  "id": "4c30048",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "اللجان",
+                    "header_size": "h3",
+                    "title_color": "#152A33",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 19,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.35,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S5 · H3 instance 3",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "4c30049",
+                  "elType": "widget",
+                  "settings": {
+                    "editor": "<p>تُحدث اللجان حسب حاجيات الجمعية. وتساهم في دراسة البرامج وتتبع الأنشطة المندرجة ضمن مجالات عملها.</p>",
+                    "text_color": "#45555C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.7,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S5 · Texte instance 3",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                }
+              ],
+              "isInner": true
+            }
+          ],
+          "isInner": true
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "4c3004a",
+      "elType": "container",
+      "settings": {
+        "content_width": "boxed",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "size": 40,
+          "column": "40",
+          "row": "40",
+          "isLinked": true
+        },
+        "flex_gap_mobile": {
+          "unit": "px",
+          "size": 32,
+          "column": "32",
+          "row": "32",
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "24",
+          "bottom": "100",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "72",
+          "right": "24",
+          "bottom": "72",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "56",
+          "right": "20",
+          "bottom": "56",
+          "left": "20",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "flex_align_items": "center",
+        "_title": "S6 — Trois pôles"
+      },
+      "elements": [
+        {
+          "id": "4c3004b",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "flex_gap": {
+              "unit": "px",
+              "size": 16,
+              "column": "16",
+              "row": "16",
+              "isLinked": true
+            },
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "flex_align_items": "center",
+            "_title": "S6 · En-tête"
+          },
+          "elements": [
+            {
+              "id": "4c3004c",
+              "elType": "widget",
+              "settings": {
+                "title": "ثلاثة أقطاب في خدمة المشروع الجمعوي",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#152A33",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 34,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 30,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 26,
+                  "sizes": []
+                },
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.25,
+                  "sizes": []
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "_title": "S6 · H2"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "4c3004d",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>يرتكز تنظيم الجمعية على ثلاثة أقطاب متكاملة منصوص عليها في القانون الأساسي:</p>",
+                "align": "center",
+                "text_color": "#45555C",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.75,
+                  "sizes": []
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "_element_width": "initial",
+                "_element_custom_width": {
+                  "unit": "px",
+                  "size": 760,
+                  "sizes": []
+                },
+                "_element_custom_width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "_title": "S6 · Introduction"
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            }
+          ],
+          "isInner": true
+        },
+        {
+          "id": "4c3004e",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_gap": {
+              "unit": "px",
+              "size": 24,
+              "column": "24",
+              "row": "24",
+              "isLinked": true
+            },
+            "flex_gap_mobile": {
+              "unit": "px",
+              "size": 20,
+              "column": "20",
+              "row": "20",
+              "isLinked": true
+            },
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "flex_align_items": "stretch",
+            "flex_wrap": "nowrap",
+            "flex_wrap_tablet": "wrap",
+            "flex_direction_mobile": "column",
+            "_title": "S6 · Grille des 3 pôles"
+          },
+          "elements": [
+            {
+              "id": "4c3004f",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 14,
+                  "column": "14",
+                  "row": "14",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 33,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "32",
+                  "right": "28",
+                  "bottom": "32",
+                  "left": "28",
+                  "isLinked": false
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "24",
+                  "right": "22",
+                  "bottom": "24",
+                  "left": "22",
+                  "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "flex_justify_content": "flex-start",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#E1E7E8",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "8",
+                  "right": "8",
+                  "bottom": "8",
+                  "left": "8",
+                  "isLinked": true
+                },
+                "_title": "S6 · Carte 1 — Pôle Administration et Gestion → P-03"
+              },
+              "elements": [
+                {
+                  "id": "4c30050",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "قطب الإدارة والتسيير",
+                    "header_size": "h3",
+                    "title_color": "#1F4E5F",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 19,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.35,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S6 · H3 carte 1 (lien P-03)",
+                    "link": {
+                      "url": "/nos-poles/administration-et-gestion/",
+                      "is_external": "",
+                      "nofollow": "",
+                      "custom_attributes": ""
+                    },
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "4c30051",
+                  "elType": "widget",
+                  "settings": {
+                    "editor": "<p>يساهم في تنظيم الهيكل الجمعوي وسير عمله.</p>",
+                    "text_color": "#45555C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.7,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S6 · Texte carte 1",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "4c30052",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 14,
+                  "column": "14",
+                  "row": "14",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 33,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "32",
+                  "right": "28",
+                  "bottom": "32",
+                  "left": "28",
+                  "isLinked": false
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "24",
+                  "right": "22",
+                  "bottom": "24",
+                  "left": "22",
+                  "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "flex_justify_content": "flex-start",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#E1E7E8",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "8",
+                  "right": "8",
+                  "bottom": "8",
+                  "left": "8",
+                  "isLinked": true
+                },
+                "_title": "S6 · Carte 2 — Pôle Formation et Intégration → P-04"
+              },
+              "elements": [
+                {
+                  "id": "4c30053",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "قطب التكوين والإدماج",
+                    "header_size": "h3",
+                    "title_color": "#1F4E5F",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 19,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.35,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S6 · H3 carte 2 (lien P-04)",
+                    "link": {
+                      "url": "/nos-poles/formation-et-integration/",
+                      "is_external": "",
+                      "nofollow": "",
+                      "custom_attributes": ""
+                    },
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "4c30054",
+                  "elType": "widget",
+                  "settings": {
+                    "editor": "<p>يندرج ضمن التوجهات المتعلقة بالتعلم وتنمية الكفاءات والإدماج.</p>",
+                    "text_color": "#45555C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.7,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S6 · Texte carte 2",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "4c30055",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 14,
+                  "column": "14",
+                  "row": "14",
+                  "isLinked": true
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 33,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "32",
+                  "right": "28",
+                  "bottom": "32",
+                  "left": "28",
+                  "isLinked": false
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "24",
+                  "right": "22",
+                  "bottom": "24",
+                  "left": "22",
+                  "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "flex_justify_content": "flex-start",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#E1E7E8",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "8",
+                  "right": "8",
+                  "bottom": "8",
+                  "left": "8",
+                  "isLinked": true
+                },
+                "_title": "S6 · Carte 3 — Pôle Animation Culturelle et Sociale → P-05"
+              },
+              "elements": [
+                {
+                  "id": "4c30056",
+                  "elType": "widget",
+                  "settings": {
+                    "title": "قطب التنشيط الثقافي والاجتماعي",
+                    "header_size": "h3",
+                    "title_color": "#1F4E5F",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 19,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.35,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S6 · H3 carte 3 (lien P-05)",
+                    "link": {
+                      "url": "/nos-poles/animation-culturelle-et-sociale/",
+                      "is_external": "",
+                      "nofollow": "",
+                      "custom_attributes": ""
+                    },
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "heading"
+                },
+                {
+                  "id": "4c30057",
+                  "elType": "widget",
+                  "settings": {
+                    "editor": "<p>يُعنى بالتوجهات المتعلقة بالثقافة والتنشيط والمشاركة الاجتماعية.</p>",
+                    "text_color": "#45555C",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.7,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_title": "S6 · Texte carte 3",
+                    "align": "right"
+                  },
+                  "elements": [],
+                  "widgetType": "text-editor"
+                }
+              ],
+              "isInner": true
+            }
+          ],
+          "isInner": true
+        },
+        {
+          "id": "4c30058",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_gap": {
+              "unit": "px",
+              "size": 0,
+              "column": "0",
+              "row": "0",
+              "isLinked": true
+            },
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "flex_justify_content": "center",
+            "flex_wrap": "wrap",
+            "_title": "S6 · Bouton général"
+          },
+          "elements": [
+            {
+              "id": "4c30059",
+              "elType": "widget",
+              "settings": {
+                "text": "اكتشف أقطابنا الثلاثة",
+                "link": {
+                  "url": "/nos-poles/",
+                  "is_external": "",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                },
+                "size": "md",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "4",
+                  "right": "4",
+                  "bottom": "4",
+                  "left": "4",
+                  "isLinked": true
+                },
+                "text_padding": {
+                  "unit": "px",
+                  "top": "16",
+                  "right": "32",
+                  "bottom": "16",
+                  "left": "32",
+                  "isLinked": false
+                },
+                "text_padding_mobile": {
+                  "unit": "px",
+                  "top": "14",
+                  "right": "24",
+                  "bottom": "14",
+                  "left": "24",
+                  "isLinked": false
+                },
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "typography_font_weight": "600",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.2,
+                  "sizes": []
+                },
+                "background_color": "#1F4E5F",
+                "button_text_color": "#FFFFFF",
+                "button_background_hover_color": "#152A33",
+                "button_hover_border_color": "#152A33",
+                "hover_color": "#FFFFFF",
+                "_title": "S6 · Bouton → page Nos pôles"
+              },
+              "elements": [],
+              "widgetType": "button"
+            }
+          ],
+          "isInner": true
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "4c3005a",
+      "elType": "container",
+      "settings": {
+        "content_width": "boxed",
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "size": 24,
+          "column": "24",
+          "row": "24",
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "88",
+          "right": "24",
+          "bottom": "88",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "72",
+          "right": "24",
+          "bottom": "72",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "56",
+          "right": "20",
+          "bottom": "56",
+          "left": "20",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#152A33",
+        "flex_align_items": "center",
+        "_title": "S7 — Appel à l’action"
+      },
+      "elements": [
+        {
+          "id": "4c3005b",
+          "elType": "widget",
+          "settings": {
+            "title": "هل ترغبون في التعرف أكثر على جمعيتنا؟",
+            "header_size": "h2",
+            "align": "center",
+            "title_color": "#FFFFFF",
+            "typography_typography": "custom",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 34,
+              "sizes": []
+            },
+            "typography_font_size_tablet": {
+              "unit": "px",
+              "size": 30,
+              "sizes": []
+            },
+            "typography_font_size_mobile": {
+              "unit": "px",
+              "size": 26,
+              "sizes": []
+            },
+            "typography_font_weight": "700",
+            "typography_line_height": {
+              "unit": "em",
+              "size": 1.25,
+              "sizes": []
+            },
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "_title": "S7 · H2"
+          },
+          "elements": [],
+          "widgetType": "heading"
+        },
+        {
+          "id": "4c3005c",
+          "elType": "widget",
+          "settings": {
+            "editor": "<p>هل ترغبون في التعرف على مهام جمعية أمل شباب التقدم، أو التواصل مع ممثليها، أو بحث إمكانيات التعاون؟</p>\n<p>لنتواصل من أجل التعرف بشكل أفضل على انتظاراتكم وتحديد إمكانيات التبادل.</p>",
+            "align": "center",
+            "text_color": "#C7D2D6",
+            "typography_typography": "custom",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 18,
+              "sizes": []
+            },
+            "typography_font_size_tablet": {
+              "unit": "px",
+              "size": 17,
+              "sizes": []
+            },
+            "typography_font_size_mobile": {
+              "unit": "px",
+              "size": 16,
+              "sizes": []
+            },
+            "typography_line_height": {
+              "unit": "em",
+              "size": 1.75,
+              "sizes": []
+            },
+            "_margin": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "_element_width": "initial",
+            "_element_custom_width": {
+              "unit": "px",
+              "size": 760,
+              "sizes": []
+            },
+            "_element_custom_width_mobile": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "_title": "S7 · Texte"
+          },
+          "elements": [],
+          "widgetType": "text-editor"
+        },
+        {
+          "id": "4c3005d",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_gap": {
+              "unit": "px",
+              "size": 0,
+              "column": "0",
+              "row": "0",
+              "isLinked": true
+            },
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "flex_justify_content": "center",
+            "flex_wrap": "wrap",
+            "_title": "S7 · Bouton"
+          },
+          "elements": [
+            {
+              "id": "4c3005e",
+              "elType": "widget",
+              "settings": {
+                "text": "تواصلوا معنا",
+                "link": {
+                  "url": "/contact/",
+                  "is_external": "",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                },
+                "size": "md",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "4",
+                  "right": "4",
+                  "bottom": "4",
+                  "left": "4",
+                  "isLinked": true
+                },
+                "text_padding": {
+                  "unit": "px",
+                  "top": "16",
+                  "right": "32",
+                  "bottom": "16",
+                  "left": "32",
+                  "isLinked": false
+                },
+                "text_padding_mobile": {
+                  "unit": "px",
+                  "top": "14",
+                  "right": "24",
+                  "bottom": "14",
+                  "left": "24",
+                  "isLinked": false
+                },
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "typography_font_weight": "600",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.2,
+                  "sizes": []
+                },
+                "background_color": "#FFFFFF",
+                "button_text_color": "#152A33",
+                "button_background_hover_color": "#F4F6F6",
+                "hover_color": "#152A33",
+                "_title": "S7 · Bouton → Contact (P-11)"
+              },
+              "elements": [],
+              "widgetType": "button"
+            }
+          ],
+          "isInner": true
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": {
+    "template": "elementor_header_footer",
+    "hide_title": "yes"
+  }
+}
